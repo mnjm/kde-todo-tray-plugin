@@ -1,0 +1,6 @@
+{
+  "path": "~/todo.md",
+  "editor": "/usr/bin/nvim",
+  "is_graphical": false,
+  "terminal": "/usr/bin/ghostty"
+}
